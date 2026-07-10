@@ -1,0 +1,23 @@
+```gitignore
+# Virtual environments
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+```
