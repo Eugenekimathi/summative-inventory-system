@@ -1,4 +1,4 @@
-from flask import Flask, jsonify , requests 
+from flask import Flask, jsonify , request 
 from external_api  import fetch_product_from_api
 
 app = Flask(__name__)
